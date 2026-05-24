@@ -17,3 +17,12 @@
 ```cpp
 > name    : cistrium
 > stack   : Java / JavaScript / Python / C++
+```
+
+</div>
+
+<p align="center">──────────</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Views-14.8k-BD93F9?style=flat-square&labelColor=555555" />
+</p>
