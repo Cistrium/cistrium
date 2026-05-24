@@ -12,9 +12,7 @@
 
 <p align="center">──────────</p>
 
-<table align="center">
-<tr>
-<td align="center">
+<div align="center">
 
 ```cpp
 > name    : cistrium
