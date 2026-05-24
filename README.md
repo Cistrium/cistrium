@@ -18,4 +18,3 @@
 > name    : cistrium
 > stack   : Java / JavaScript / Python / C++
 > focus   : backend, systems, tools
-```
