@@ -24,5 +24,5 @@
 <p align="center">──────────</p>
 
 <p align="center">
-  <img src="https://images.weserv.nl/?url=img.shields.io/badge/%x56%x69%x65%x77%x73%x2d%x33%x37%x32%x2d%x38%x62%x30%x30%x30%x30" />
+  <img src="https://images.weserv.nl/?url=img.shields.io/badge/%56%69%65%77%73%2d%32%34%31%2d%38%62%30%30%30%30?style=%66%6c%61%74&%63%61%63%68%65=%33%36%30%30&%6c%61%62%65%6c%43%6f%6c%6f%72=%35%35%35" />
 </p>
