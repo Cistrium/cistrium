@@ -12,9 +12,10 @@
 
 <p align="center">──────────</p>
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
 
 ```cpp
 > name    : cistrium
 > stack   : Java / JavaScript / Python / C++
-> focus   : backend, systems, tools
