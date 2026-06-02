@@ -1,28 +1,16 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B0000&center=true&vCenter=true&width=600&lines=cistrium;developer+%7C+Java+%7C+JavaScript+%7C+Python" />
-  </a>
+  <img src="https://media1.tenor.com/m/h2_s-Uo1dKwAAAAd/rat-rats.gif" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=B22222&center=true&vCenter=true&width=600&lines=clean+code+%26+backend+development;discord:+cistrium;building+tools+%26+projects" />
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Views-721-d6eaf8?style=flat&labelColor=555" />
 </p>
 
-<p align="center">──────────</p>
+<br>
 
-<div align="center">
+If I’ve been inactive or slow to update things, it’s not intentional. 
+My account has been getting hit with false suspensions from GitHub’s automated systems, which has locked me out multiple times. Because of that, I haven’t always had access when I normally would. 
+I’m in contact with support trying to get it fully sorted so it stops happening. 
+Things should go back to normal once this is resolved. Thanks for sticking around.
 
-```cpp
-> name    : cistrium
-> stack   : Java / JavaScript / Python
-```
-
-</div>
-
-<p align="center">──────────</p>
-
-<p align="center">
-  <img src="https://images.weserv.nl/?url=img.shields.io/badge/%56%69%65%77%73%2d%32%34%31%2d%38%62%30%30%30%30?style=%66%6c%61%74&%63%61%63%68%65=%33%36%30%30&%6c%61%62%65%6c%43%6f%6c%6f%72=%35%35%35" />
-</p>
+Shae (qe7)
