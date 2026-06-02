@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/h2_s-Uo1dKwAAAAd/rat-rats.gif" width="100%" alt="Rats eating Tunnocks Teacake" />
+  <img src="https://media1.tenor.com/m/-JUf7UtzkbIAAAAd/rat-rats.gif" width="100%" alt="Rats eating Tunnocks Teacake" />
 </p>
 
 <p align="left">
