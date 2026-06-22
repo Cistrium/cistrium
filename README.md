@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="https://images.weserv.nl/?url=img.shields.io/badge/%56%69%65%77%73%2d%38%33%36%2d%65%38%64%61%65%66?style=%66%6c%61%74&%63%61%63%68%65=%33%36%30%30&%6c%61%62%65%6c%43%6f%6c%6f%72=%35%35%35" alt="Profile Views" />
+  <img src="https://images.weserv.nl/?url=img.shields.io/badge/%56%69%65%77%73%32%64%31%2e%37%6b%32%64%35%35%35%35%35%35?style=%66%6c%61%74&%6c%61%62%65%6c%43%6f%6c%6f%72=%33%33%33%33%33%33" alt="Profile Views" />
 </p>
 
 ---
