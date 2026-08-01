@@ -13,8 +13,8 @@
 ---
 
 <p align="center">
-  I create tools, experiment with code and build personal projects.<br>
-  Exploring development, reverse engineering and creative ideas.
+  I make random things on the internet.<br>
+  Sometimes they work, sometimes I call it a feature.
 </p>
 
 <br>
